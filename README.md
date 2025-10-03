@@ -45,5 +45,3 @@ Teaching suggestions / next steps
 - Split the large demo cell into smaller concept-focused cells with short explanations and questions for students.
 - Add short exercises (e.g., "implement and test reverse_list()") and expected outputs so students can practice.
 - Convert the demo into a printable handout or slides.
-
-If you want, I can split the notebook into separate cells with explanatory Markdown and small practice problems ready for your exam revision session. Tell me how many sections or which topics you want emphasized and I will update the notebook accordingly.
