@@ -8,7 +8,7 @@
     "explorer.confirmDelete": false,
     "debug.onTaskErrors": "debugAnyway",
     "workbench.colorTheme": "Visual Studio Dark - C++",
-
+    "cSpell.language": "en,it",
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.detectIndentation": true,
     "editor.formatOnPaste": false,
@@ -62,4 +62,4 @@
     "workbench.startupEditor": "newUntitledFile",
     "workbench.tips.enabled": false,
     "vsicons.dontShowNewVersionMessage": true
-}
+}}
