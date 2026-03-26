@@ -1,3 +1,11 @@
 rectangle
 discord
 visual-studio-code
+logi-options+
+obsidian
+hiddenbar
+logisim-evolution
+whatsapp
+lm-studio
+notion
+temurin
