@@ -195,7 +195,6 @@ I clone this repo to my machine and copy the files into my home directory.
 vscode-icons-team.vscode-icons
 esbenp.prettier-vscode
 vunguyentuan.vscode-postcss
-streetsidesoftware.code-spell-checker
 yoavbls.pretty-ts-errors
 styled-components.vscode-styled-components
 bierner.markdown-mermaid
