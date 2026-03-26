@@ -24,7 +24,7 @@ This repo contains info on all the apps / tools / settings I use on my Mac.
   - [Shell](#shell)
   - [Github SSH Setup](#github-ssh-setup)
     - [Other command line tools I use](#other-command-line-tools-i-use)
-- [VS Code](#vs-code)
+- [VS Code](#VS-Code-Settings)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
